@@ -1,0 +1,14 @@
+=To Be Implemented=
+
+==Raidtracking==
+  * Disenchanted Drops
+  * Banked Drops
+  * Raid Rolled Items
+
+==Raid Management==
+  * Talent Check
+  * RaidID Check
+
+==Guild Management==
+  * Profession lookup
+  * Talent lookup?

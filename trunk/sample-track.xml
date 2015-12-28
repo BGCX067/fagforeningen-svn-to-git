@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<raidtracker author="Playername" version="1">
+	<raid id="123" difficulty="1" zone="Naxxramas" nicename="Naxxramas (10)" raidstart="123" raidstop="234">
+		<leave>
+			<time player="Player" value="1234" />
+		</leave>
+		<join>
+			<time player="Player" value="1234" />
+		</join>
+		<dkptime>
+			<time player="Player" value="1234" />
+		</dkptime>
+		<bossdown>
+			<boss name="xx" time="123" />
+		</bossdown>
+		<loot>
+			<item id="123" time="123" name="ABC" category="loot|disenchant|bank" type="UNEQUIPABLE|..." quality="1" player="playername" amount="1"/>
+		</loot>
+	</raid>
+</raidtracker>

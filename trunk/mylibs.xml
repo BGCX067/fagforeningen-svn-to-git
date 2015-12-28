@@ -1,0 +1,4 @@
+<Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+  <Script file="Misc\Deformat-3.0\Deformat-3.0.lua"/>
+</Ui>
+

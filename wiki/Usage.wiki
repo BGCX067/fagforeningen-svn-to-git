@@ -1,0 +1,27 @@
+Raid lifecycle: (set fra RL perspektiv)
+
+Setup fase: /rg raid setup
+
+Invite folk til raid med auto invite (copy paste streng fra hjemmesiden), hvis du ikke har en invite streng fra hjemmesiden kan du bare trykke "ESC" eller "Import" med et blankt felt.
+
+Smut hen til og ind i instancen.
+Hvis antallet af folk i raid er mere end 11 skiftes der automatisk til heroic, hvis raidet ikke allerede er startet
+
+
+
+Start:
+Hvis autostart skal du ikke foretage dig noget, ellers /rg raid start
+
+Når raidet starter, synces alle klienter med et raid id. Dette raid id er unikt og kan evt. benyttes til synkronisering hvis der er behov. Der registeres instance og difficulty til raidet (dette kan ændres med /rg raidset). RL bliver sat som ML.
+
+Stop:
+Når raidet er slut skal du skrive /rg raid stop. Så synces alle klienter igen med stop tidspunkt.
+
+Hvis raidet stadig skal forsætte, kan du stoppe det gamle raid og starte et nyt uden at stoppe det gamle først ved at lave et nyt setup (du behøver så ikke at invite folk igen - se ovenfor). Dette er nyttigt hvis der skal skiftes imellem 2 forskellige DKP puljer.
+
+Export:
+Du kan til enhvert tid exporte alle raids, men lad være med at exporte hvis du ikke har stoppet et setup / started raid, da importfunktionen ikke ville kunne forstå det.
+
+Clear:
+Når du har mange raid gemt, kan det måske betale sig at slette alle raids (OBS: inkl. evt. igangværende) med /rg raid clear.
+Dette er nyttigt da raidtrackeren exporterer alle raids hvergang og listen til import vil vokse og vokse.
